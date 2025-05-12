@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.7e149cde.js",
-    "index.html": "/index.html",
-    "main.7e149cde.js.map": "/static/js/main.7e149cde.js.map"
+    "main.js": "/CozyTritypeTest/static/js/main.7e149cde.js",
+    "index.html": "/CozyTritypeTest/index.html",
+    "main.7e149cde.js.map": "/CozyTritypeTest/static/js/main.7e149cde.js.map"
   },
   "entrypoints": [
     "static/js/main.7e149cde.js"
